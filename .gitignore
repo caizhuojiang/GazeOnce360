@@ -132,8 +132,6 @@ dmypy.json
 
 # Data and models (large files)
 data/
-datasets/
-models/
 checkpoints/
 *.pth
 *.pt
@@ -143,4 +141,4 @@ checkpoints/
 # Outputs
 results/
 outputs/
-logs/
+runs/
